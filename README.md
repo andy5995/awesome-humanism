@@ -8,3 +8,6 @@ free to add a new category in your pull request.
 
 ## Books
 * [Good Without God: What a Billion Nonreligious People Do Believe](https://www.google.com/books/edition/Good_Without_God/lizAK72dCUMC) - The author, Greg M. Epstein, holds a B.A. in religion and Chinese and an M.A. in Judaic studies from the University of Michigan, and an M.A. in theological studies from the Harvard Divinity School.
+
+## Videos
+* [Why I choose humanism over faith (TED Talk)](https://www.youtube.com/watch?v=r9Zz4hYuGdw) - Leo Igwe doesn't believe in divine intervention -- but he does believe in the power of human beings to alleviate suffering, cure disease, preserve the planet and turn situations of poverty into prosperity.
