@@ -6,6 +6,10 @@ A curated list of resources related to [Humanism](https://www.bbc.co.uk/religion
 If you are adding a resource that doesn't have a category yet, feel
 free to add a new category in your pull request.
 
+Disclaimer: The views expressed in the content being linked to from
+this document do not necessarily agree with the views of the
+maintainers or contributors of this document.
+
 ## Articles
 * [Famous Humanists in History](https://americanhumanist.org/what-is-humanism/famous-humanists-in-history/)
 * [Humanist Common Ground: Atheism](https://americanhumanist.org/paths/atheism/) - Includes historical perspective and quotes by many individuals.
