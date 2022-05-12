@@ -23,6 +23,9 @@ maintainers or contributors of this document.
 ## Non-Profit Organizations
 * [Center for Inquiry](https://centerforinquiry.org/) - Charitable organization dedicated to defending science and critical thinking in examining religion.
 
+## Students
+* [Secular Student Alliance](https://secularstudents.org/) - Empowers secular students to proudly express their identity, build welcoming communities, promote secular values, and set a course for lifelong activism.
+
 ## Videos
 * [The Chronicles of Humanism (Episode 13): Humanist Values in Star Trek](https://www.youtube.com/watch?v=oWvmYwTcjkg)
 * [Why I choose humanism over faith (TED Talk)](https://www.youtube.com/watch?v=r9Zz4hYuGdw) - Leo Igwe doesn't believe in divine intervention -- but he does believe in the power of human beings to alleviate suffering, cure disease, preserve the planet and turn situations of poverty into prosperity.
