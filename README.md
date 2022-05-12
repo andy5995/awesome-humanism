@@ -17,6 +17,9 @@ maintainers or contributors of this document.
 ## Books
 * [Good Without God: What a Billion Nonreligious People Do Believe](https://www.google.com/books/edition/Good_Without_God/lizAK72dCUMC) - The author, Greg M. Epstein, holds a B.A. in religion and Chinese and an M.A. in Judaic studies from the University of Michigan, and an M.A. in theological studies from the Harvard Divinity School.
 
+## Military
+* [Military Association of Atheists and Freethinkers](https://militaryatheists.org/) -  Providing community for atheists, humanists, and other nontheists in the military.
+
 ## Non-Profit Organizations
 * [Center for Inquiry](https://centerforinquiry.org/) - Charitable organization dedicated to defending science and critical thinking in examining religion.
 
