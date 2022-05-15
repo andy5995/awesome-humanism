@@ -1,15 +1,15 @@
 name: Check Markdown links
 
-on: 
+on:
   push:
-    branches: 
-      - master
+    branches:
+      - trunk
   schedule:
     - cron: "28 2 3,17 * *"
 
 jobs:
   markdown-link-check:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v3
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
