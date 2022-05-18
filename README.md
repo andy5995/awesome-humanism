@@ -1,6 +1,7 @@
 # Awesome Humanism [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of resources related to [Humanism](https://www.bbc.co.uk/religion/religions/atheism/types/humanism.shtml)
+A curated list of resources related to secular
+[Humanism](https://www.bbc.co.uk/religion/religions/atheism/types/humanism.shtml)
 
 If you are adding a resource that doesn't have a category yet, feel
 free to add a new category in your pull request.
