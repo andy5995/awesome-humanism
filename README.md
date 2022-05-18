@@ -11,12 +11,17 @@ maintainers or contributors of this document.
 
 ## Contents
 
+- [Addiction and Recovery](#addiction-and-recovery)
 - [Articles](#articles)
 - [Books](#books)
 - [Military](#military)
 - [Non-Profit Organizations](#non-profit-organizations)
 - [Students](#students)
 - [Videos](#videos)
+
+## Addiction and Recovery
+
+[SMART Recovery](https://www.smartrecovery.org/) - Global community of people and families working together to resolve addictive problems (alternative to 12-step programs).
 
 ## Articles
 
