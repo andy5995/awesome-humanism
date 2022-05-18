@@ -21,7 +21,7 @@ maintainers or contributors of this document.
 
 ## Addiction and Recovery
 
-[SMART Recovery](https://www.smartrecovery.org/) - Global community of people and families working together to resolve addictive problems (alternative to 12-step programs).
+- [SMART Recovery](https://www.smartrecovery.org/) - Global community of people and families working together to resolve addictive problems (alternative to 12-step programs).
 
 ## Articles
 
