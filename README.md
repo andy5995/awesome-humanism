@@ -32,6 +32,7 @@ maintainers or contributors of this document.
 ## Books
 
 - [Good Without God: What a Billion Nonreligious People Do Believe](https://www.google.com/books/edition/Good_Without_God/lizAK72dCUMC) - The author, Greg M. Epstein, holds a B.A. in religion and Chinese and an M.A. in Judaic studies from the University of Michigan, and an M.A. in theological studies from the Harvard Divinity School.
+- [Parenting Beyond Belief: On Raising Ethical, Caring Kids Without Religion](https://www.google.com/books/edition/Parenting_Beyond_Belief/4v3nDAAAQBAJ) - Gathers the perspectives of educators and psychologists, as well as wisdom from everyday parents.
 
 ## Military
 
