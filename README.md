@@ -16,6 +16,7 @@ maintainers or contributors of this document.
 - [Articles](#articles)
 - [Books](#books)
 - [Military](#military)
+- [News](#news)
 - [Non-Profit Organizations](#non-profit-organizations)
 - [Students](#students)
 - [Videos](#videos)
@@ -37,6 +38,10 @@ maintainers or contributors of this document.
 ## Military
 
 - [Military Association of Atheists and Freethinkers](https://militaryatheists.org/) -  Providing community for atheists, humanists, and other nontheists in the military.
+
+## News
+
+- [TheHumanist.com](https://thehumanist.com/) - Online and print magazine that includes current events, entertainment, commentary and interviews.
 
 ## Non-Profit Organizations
 - [Center for Inquiry](https://centerforinquiry.org/) - Charitable organization dedicated to defending science and critical thinking in examining religion.
