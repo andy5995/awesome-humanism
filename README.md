@@ -18,6 +18,7 @@ maintainers or contributors of this document.
 - [Military](#military)
 - [News](#news)
 - [Non-Profit Organizations](#non-profit-organizations)
+- [Online Communities](#online-communities)
 - [Students](#students)
 - [Videos](#videos)
 
@@ -46,6 +47,10 @@ maintainers or contributors of this document.
 ## Non-Profit Organizations
 - [Center for Inquiry](https://centerforinquiry.org/) - Charitable organization dedicated to defending science and critical thinking in examining religion.
 - [Humanists UK](https://humanists.uk/) - Works to support lasting change for a better society, championing ideas for the one life we have.
+
+## Online Communities
+
+- [r/humanism](https://www.reddit.com/r/humanism/) - Moderated Reddit community.
 
 ## Students
 
