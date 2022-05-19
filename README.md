@@ -40,6 +40,7 @@ maintainers or contributors of this document.
 
 ## Non-Profit Organizations
 - [Center for Inquiry](https://centerforinquiry.org/) - Charitable organization dedicated to defending science and critical thinking in examining religion.
+- [Humanists UK](https://humanists.uk/) - Works to support lasting change for a better society, championing ideas for the one life we have.
 
 ## Students
 
