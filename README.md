@@ -48,5 +48,6 @@ maintainers or contributors of this document.
 ## Videos
 
 - [The Chronicles of Humanism (Episode 13): Humanist Values in Star Trek](https://www.youtube.com/watch?v=oWvmYwTcjkg)
+- [What Should We Think About Death](https://www.youtube.com/watch?v=-ewpKqk-GDs)
 - [Why I choose humanism over faith (TED Talk)](https://www.youtube.com/watch?v=r9Zz4hYuGdw) - Leo Igwe doesn't believe in divine intervention -- but he does believe in the power of human beings to alleviate suffering, cure disease, preserve the planet and turn situations of poverty into prosperity.
 
