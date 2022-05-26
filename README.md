@@ -47,6 +47,7 @@ maintainers or contributors of this document.
 ## Non-Profit Organizations
 - [American Ethical Union](https://aeu.org/) - Creates, nurtures, and inspires ethical humanist communities to foster a world that is democratic, compassionate, just, and sustainable.
 - [Center for Inquiry](https://centerforinquiry.org/) - Charitable organization dedicated to defending science and critical thinking in examining religion.
+- [HumanistsMN](https://humanistsmn.org/) - (based in Minnesota) Secular community that promotes ethical living, widespread human flourishing, and a healthy planet through its commitment to science, reason, compassion, and creativity.
 - [Humanists UK](https://humanists.uk/) - Works to support lasting change for a better society, championing ideas for the one life we have.
 
 ## Online Communities
