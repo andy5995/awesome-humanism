@@ -50,6 +50,8 @@ maintainers or contributors of this document.
 - [TheHumanist.com](https://thehumanist.com/) - Online and print magazine that includes current events, entertainment, commentary and interviews.
 
 ## Non-Profit Organizations
+
+- [American Humanist Association](https://americanhumanist.org/) - Advocating progressive values and equality for humanists, atheists, and freethinkers.
 - [American Ethical Union](https://aeu.org/) - Creates, nurtures, and inspires ethical humanist communities to foster a world that is democratic, compassionate, just, and sustainable.
 - [Center for Inquiry](https://centerforinquiry.org/) - Charitable organization dedicated to defending science and critical thinking in examining religion.
 - [Humanists International](https://humanists.international/) - Global representative body of the humanist movement, uniting a diversity of non-religious organisations and individuals.
