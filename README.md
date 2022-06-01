@@ -12,6 +12,7 @@ maintainers or contributors of this document.
 
 ## Contents
 
+- [Activism](#activism)
 - [Addiction and Recovery](#addiction-and-recovery)
 - [Articles](#articles)
 - [Books](#books)
@@ -22,6 +23,11 @@ maintainers or contributors of this document.
 - [Online Communities](#online-communities)
 - [Students](#students)
 - [Videos](#videos)
+
+## Activism
+
+- [GO Humanity](https://gohumanity.world/) - (formerly known as "Foundation Beyond Belief") Seeks to end poverty and hunger, promote good health and well-being, and foster employment opportunities and economic growth in ways that exemplify humanist values.
+- [Humanists UK](https://humanists.uk/) - Works to support lasting change for a better society, championing ideas for the one life we have.
 
 ## Addiction and Recovery
 
@@ -56,7 +62,6 @@ maintainers or contributors of this document.
 - [Center for Inquiry](https://centerforinquiry.org/) - Charitable organization dedicated to defending science and critical thinking in examining religion.
 - [Humanists International](https://humanists.international/) - Global representative body of the humanist movement, uniting a diversity of non-religious organisations and individuals.
 - [HumanistsMN](https://humanistsmn.org/) - (based in Minnesota) Secular community that promotes ethical living, widespread human flourishing, and a healthy planet through its commitment to science, reason, compassion, and creativity.
-- [Humanists UK](https://humanists.uk/) - Works to support lasting change for a better society, championing ideas for the one life we have.
 
 ## Online Communities
 
